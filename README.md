@@ -1,6 +1,6 @@
 # Query Optimizer
 
-Leverages OpenAI's GPT 3.5 model to suggest optimizations for SQL queries. It focuses on general query optimizations without relying on database-specific information like indexes or query plans.
+Leverages OpenAI's GPT-4o mini model to suggest optimizations for SQL queries. It focuses on general query optimizations without relying on database-specific information like indexes or query plans.
 
 ## Instructions
 
